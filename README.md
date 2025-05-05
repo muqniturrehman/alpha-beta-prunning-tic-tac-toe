@@ -1,1 +1,1 @@
-# alpha-beta-prunning-tic-tac-toe
+# alpha-beta-prunning-tic-tac-to
