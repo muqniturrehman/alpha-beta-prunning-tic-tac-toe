@@ -160,6 +160,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## ✨ Author
 
 Developed by [Your Name].  
-Feel free to connect on [GitHub](https://github.com/your-username) or submit issues and PRs!
+Feel free to connect on [GitHub](https://github.com/muqniturrehman) or submit issues and PRs!
 
 Enjoy playing — and may the smartest player win! 🤖🎮
